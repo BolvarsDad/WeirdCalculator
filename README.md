@@ -13,6 +13,6 @@ gcc main.c number.c operator.c util.c
 ```
 Run as:
 ```
-wcalc three,plus,ten"
+./a.out three,plus,ten"
 "thirteen
 ```
